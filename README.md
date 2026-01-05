@@ -50,6 +50,7 @@ Os principais conteúdos trabalhados na disciplina incluem:
 
 ## 🗂️ Estrutura do repositório
 
+```
 /
 ├── 01-slides-aula/            # Slides utilizados nas aulas
 ├── 02-materiais-estudo/       # Leituras e materiais complementares
@@ -57,8 +58,7 @@ Os principais conteúdos trabalhados na disciplina incluem:
 ├── 04-atividades-avaliativas/ # Enunciados das atividades avaliativas
 ├── 05-atividades-fixacao/     # Exercícios para prática e revisão
 └── README.md
-
----
+```--
 
 ## ▶️ Como utilizar este repositório
 
