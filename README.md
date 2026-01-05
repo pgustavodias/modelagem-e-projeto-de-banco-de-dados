@@ -52,7 +52,6 @@ Os principais conteúdos trabalhados na disciplina incluem:
 
 ## 🗂️ Estrutura do repositório
 
-```text
 /
 ├── 01-slides-aula/            # Slides utilizados nas aulas
 ├── 02-materiais-estudo/       # Leituras e materiais complementares
