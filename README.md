@@ -1,4 +1,3 @@
-md
 # Modelagem e Projeto de Banco de Dados (MPBD)
 
 Repositório de apoio à disciplina **Modelagem e Projeto de Banco de Dados**,  
@@ -97,4 +96,4 @@ Algumas das principais referências utilizadas na disciplina:
 
 ## 👨‍🏫 Professor responsável
 Luiz Gustavo Dias
-Professor universitário (Graduação e MBA)
+Consultor e Professor Universitário (Graduação e MBA)
