@@ -1,4 +1,4 @@
-# 📚 Agenda de Aula — Banco de Dados (2026)
+# 📚 Agenda de Aula — Modelagem e Projeto de Banco de Dados (2026)
 
 📅 **Dias e horários das aulas**  
 - **Quarta-feira** — 1º horário  
