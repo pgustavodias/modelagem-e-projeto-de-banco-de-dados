@@ -56,6 +56,7 @@ Os principais conteúdos trabalhados na disciplina incluem:
 ├── 03-scripts/                # Scripts SQL (DDL, DML e consultas)
 ├── 04-atividades-avaliativas/ # Enunciados das atividades avaliativas
 ├── 05-atividades-fixacao/     # Exercícios para prática e revisão
+└── Agenda de Aula.md
 └── README.md
 ```
 
