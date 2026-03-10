@@ -119,27 +119,27 @@ A disciplina será avaliada por meio dos seguintes instrumentos:
 ## 📌 Semana 6
 
 ### 📅 11/03 (Quarta)
-- Mapeamento do MER para o Modelo Relacional
+- Integra
 
 ### 📅 12/03 (Quinta)
-- 📝 **Atividade 4**
+- Mapeamento do MER para o Modelo Relacional
 
 ---
 
 ## 📌 Semana 7
 
 ### 📅 18/03 (Quarta)
-- Continuação: Mapeamento do MER para o Modelo Relacional
+- 📝 **Atividade 4**
 
 ### 📅 19/03 (Quinta)
-- 📝 **Atividade 5**
+- Continuação: Mapeamento do MER para o Modelo Relacional
 
 ---
 
 ## 📌 Semana 8
 
 ### 📅 25/03 (Quarta)
-- Normalização
+- 📝 **Atividade 5**
 
 ### 📅 26/03 (Quinta)
 - Revisão geral (conteúdo para avaliação)
@@ -295,8 +295,8 @@ A disciplina será avaliada por meio dos seguintes instrumentos:
 | 19/02 | 📝 Atividade 1 |
 | 26/02 | 📝 Atividade 2 |
 | 05/03 | 📝 Atividade 3 |
-| 12/03 | 📝 Atividade 4 |
-| 19/03 | 📝 Atividade 5 |
+| 18/03 | 📝 Atividade 4 |
+| 25/03 | 📝 Atividade 5 |
 | 01/04 | 📝 **Avaliação 1 (Prova 1)** |
 | 16/04 | 📝 Atividade 6 |
 | 23/04 | 📝 Atividade 7 |
