@@ -303,8 +303,8 @@ A disciplina será avaliada por meio dos seguintes instrumentos:
 | 30/04 | 📝 Atividade 8 |
 | 07/05 | 📝 Atividade 9 |
 | 14/05 | 📝 Atividade 10 |
-| 21/05 | 🚀 **Início do Projeto Final** |
-| 10/06 e 11/06 | 🎤 **Apresentações do Projeto** |
+| 20/05 | 🚀 **Início do Projeto Final** |
+| 03/06, 10/06 e 11/06 | 🎤 **Apresentações do Projeto** |
 | 18/06 | 📝 **Avaliação Final (Prova 2)** |
 | 01/07 | 📝 **2ª Chamada** |
 | 02/07 | 🎓 Encerramento |
