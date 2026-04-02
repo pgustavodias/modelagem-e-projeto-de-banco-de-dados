@@ -221,10 +221,10 @@ A disciplina será avaliada por meio dos seguintes instrumentos:
 ## 🚀 Semana 16 — Início do Projeto Final
 
 ### 📅 20/05 (Quarta)
-- 📌 Projeto DW
+- 🚀 **Projeto de Banco de Dados (início do Projeto Final)**
 
 ### 📅 21/05 (Quinta)
-- 🚀 **Projeto de Banco de Dados (início do Projeto Final)**
+- Projeto de Banco de Dados
 
 ---
 
