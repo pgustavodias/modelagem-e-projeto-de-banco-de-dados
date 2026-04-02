@@ -241,7 +241,7 @@ A disciplina será avaliada por meio dos seguintes instrumentos:
 ## 🚀 Semana 18
 
 ### 📅 03/06 (Quarta)
-- Projeto de Banco de Dados
+- 🎤 Apresentação
 
 ### 📅 04/06 (Quinta)
 - 🇧🇷 **Feriado**
