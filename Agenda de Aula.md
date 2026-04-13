@@ -163,7 +163,7 @@ A disciplina será avaliada por meio dos seguintes instrumentos:
 
 ### 📅 09/04 (Quinta)
 - Implementação do Modelo Físico a partir do Modelo Relacional  
-- DDL: `create`, `alter`, `drop` (schema e user)
+- DDL: `create`, `alter`, `drop` (schema, user, table)
 
 ---
 
