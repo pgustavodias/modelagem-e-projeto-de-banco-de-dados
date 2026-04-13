@@ -171,7 +171,7 @@ A disciplina será avaliada por meio dos seguintes instrumentos:
 
 ### 📅 15/04 (Quarta)
 - Introdução ao uso de IDE para acesso ao Modelo Físico  
-- DDL: `create`, `alter`, `drop table`
+- DDL: `create`, `alter`, `drop`
 
 ### 📅 16/04 (Quinta)
 - 📝 **Atividade 6**
